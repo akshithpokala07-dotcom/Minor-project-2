@@ -30,9 +30,9 @@ Project Structure
 
 Dina-Tech
 
--index.html
--style.css
--README.md
+- index.html
+- style.css
+- README.md
 
 Website Sections
 
