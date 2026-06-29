@@ -28,11 +28,11 @@ Technologies Used
 
 Project Structure
 
-Dina-Tech/
-│
-├── index.html
-├── style.css
-└── README.md
+Dina-Tech
+
+-index.html
+-style.css
+-README.md
 
 Website Sections
 
@@ -68,8 +68,8 @@ Contains:
 - Contact information
 - Social media information
 - Copyright
-  
- Features
+
+### Features
 
 - Responsive Navigation Bar
 - Product Cards
@@ -78,16 +78,14 @@ Contains:
 - Contact Section
 - Mobile Friendly Layout
 
-How to Run
+### How to Run
 
 1. Download both the html and CSS file
 2. Make sure to place them in a single folder
 3. Open "index.html" in Visual Studio Code
 4. Run using live server or open it directly into your browser.
 
-Author
-
-Name: Akshith Rao Pokala
+Author Name: Akshith Rao Pokala
 
 Course: Unlox Web Development Program
 
